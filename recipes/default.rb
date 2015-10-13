@@ -6,3 +6,5 @@
 
 log "This is a nice resource"
 
+directory '/tmp/marchex'
+
