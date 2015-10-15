@@ -4,7 +4,7 @@
 #
 # Copyright (c) 2015 The Authors, All Rights Reserved.
 
-log "This is a nice resource"
 
-directory '/tmp/marchex'
+log "This is a nice resource"
+log "hello, world"
 
