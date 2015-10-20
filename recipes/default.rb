@@ -7,4 +7,4 @@
 
 log "This is a nice resource"
 log "hello, world"
-
+log "hellos!"
