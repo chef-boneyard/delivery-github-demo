@@ -8,3 +8,4 @@
 log "This is a nice resource"
 log "hello, world"
 
+execute 'mkdir /tmp/folks'
